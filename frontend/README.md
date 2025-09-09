@@ -1,7 +1,7 @@
 
-# 🌾 **Farm Setu (सेतु)**
+# 🌾 **KrishiAi**
 
-Farm Setu is a revolutionary platform designed to empower farmers by providing easy access to resources, tools, and a vibrant community. With this app, farmers can stay updated on the latest techniques, trade in a specialized marketplace, consult experts, and connect with fellow farmers. The goal? To make farming smarter, more profitable, and deeply connected.
+KrishiAi is a revolutionary platform designed to empower farmers by providing easy access to resources, tools, and a vibrant community. With this app, farmers can stay updated on the latest techniques, trade in a specialized marketplace, consult experts, and connect with fellow farmers. The goal? To make farming smarter, more profitable, and deeply connected.
 
 ---
 
@@ -63,7 +63,7 @@ Ensure the following software is installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/farm-setu.git
+   git clone https://github.com/username/KrishiAi.git
    ```
 
 2. **Navigate and install dependencies**:
@@ -124,17 +124,6 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 - **OpenWeatherMap** and **Market Data API** for real-time data.
 - Local farming communities for invaluable feedback.
 - Our dedicated team for turning this vision into reality.
-
----
-
-## 👥 **Team (Strikers)**
-
-- **Ajay Mehta**: Data Scientist  
-- **Himanshu Gahlot**: Frontend Developer  
-- **Ravi Kant Chaudhary**: App Developer, Data Scientist, UI/UX Designer  
-- **Rishab Chaudhary**: Unit Tester  
-- **Rishi Soni**: Full Stack Developer, Prompt Engineer  
-- **Roshan Suthar**: Full Stack Developer  
 
 ---
 

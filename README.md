@@ -30,7 +30,7 @@
 - [🔧 Troubleshooting 🩺](#-troubleshooting-)
 - [🔒 Security 🛡️](#-security-)
 - [🙏 Acknowledgements 💐](#-acknowledgements-)
-- [👥 Team (Strikers) 🌟](#-team-strikers-)
+
 
 ---
 

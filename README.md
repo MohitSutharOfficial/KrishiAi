@@ -30,7 +30,7 @@
 - [🔧 Troubleshooting 🩺](#-troubleshooting-)
 - [🔒 Security 🛡️](#-security-)
 - [🙏 Acknowledgements 💐](#-acknowledgements-)
-- [👥 Team (Strikers) 🌟](#-team-strikers-)
+
 
 ---
 
@@ -41,16 +41,13 @@ Farmers worldwide face common challenges: limited information, high costs, and s
 Key features include a **Marketplace**, **Community Forum**, **Expert Consultations**, and **Local Chats**, fostering a robust network of shared knowledge and resources.
 
 ---
-## 📺 **Live Preview**
-
-- **Backend**: [https://farmsetu-6bga.onrender.com](https://farmsetu-6bga.onrender.com)
-- **Frontend**: [https://farmsetu.netlify.app](https://farmsetu.netlify.app)
+## 📺 **Live Preview
 
 ## ⚡ **Quick Start** 🚀
 
 Want to get started quickly? Follow these simple steps:
 
-1. **Visit the Platform**: Go to [https://farmsetu.netlify.app](https://farmsetu.netlify.app)
+1. **Visit the Platform**: 
 2. **Create an Account**: Sign up as a farmer, expert, or seller
 3. **Explore Features**: Check out the marketplace, community forum, and expert chat
 4. **Get Help**: Use the AI chatbot for instant assistance
